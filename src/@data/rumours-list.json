@@ -8459,6 +8459,36 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Whitefang implies that most of the rumours we heard about the last world are tintend by a pesimisn filter. So things could be better than we think",
+		"message": {
+			"contents": [
+				"It's filtered through someone who has strong opinions on how stuff should be and often weird takes. It reminds me so much of the old timer in the shop who has strong opinions on how things work and should work. It's a real thing I've noticed in long running hobbies. You see/saw it in WHFB, D&D etc. The word \"proper\" will be used.\nWhat will happen will happen (I'm pretty sure at this point the book print run has started, there is at least a 6 month lead time). I would try not to worry. Maybe it's going to be suck, maybe it won't. Not much we can do about it. \nThere are good ways that it can work and bad ways that it can work. I like the AoS world but I can see ways that it could be improved."
+			],
+			"quotes": [
+				"I feel like everything everything I've heard about the Last World rumours makes me wonder if it spawned from someone on the design team suffering a head injury.\nBecause if what's rumoured is true it genuinely sounds like they want to kill AoS."
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=371#findComment-812731"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2026-10-18",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
