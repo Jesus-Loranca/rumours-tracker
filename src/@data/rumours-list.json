@@ -8489,6 +8489,66 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "End of Edition Campaign",
+		"text": "New info about the Skaven and S2D release from the EoE campaign",
+		"message": {
+			"contents": [
+				"Here's some new Rumours for a new board - Two new named characters that will be released before the next edition:\nGrey Seer that's the herald of Vizzik Skour.\nSlaves to Darkness Sorcerer on scaled beast."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44812-the-rumour-thread-part-2/?page=5#findComment-813528"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "2026-10-23",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "End of Edition Campaign",
+		"text": "The S2D hero in a scaled beast is mounting a creature similar to Abraxia's mount",
+		"message": {
+			"contents": [
+				"You saying \"scaled beast\" makes me think it's not a dragon maybe a karkadrak or a beast like Abraxia"
+			],
+			"quotes": [
+				"Here's some new Rumours for a new board - Two new named characters that will be released before the next edition:\nGrey Seer that's the herald of Vizzik Skour.\nSlaves to Darkness Sorcerer on scaled beast."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44812-the-rumour-thread-part-2/?page=5#findComment-813530"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2026-10-23",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
