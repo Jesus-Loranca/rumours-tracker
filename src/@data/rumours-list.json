@@ -8616,6 +8616,36 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Another post by Boole clarifying what we are seeing in the map picture from Big Yahoo",
+		"message": {
+			"contents": [
+				"To the west are CoS and two Stormkeeps\nIn the middle are Skaven, KO, and Khazalid\nTo the east is HoH\nIn the southeast corner, LRL sits alone on its own continent, and right next to LRL, a corner of FEC is peeking out from another continent"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2003#findComment-814132"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-10-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
