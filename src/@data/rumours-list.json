@@ -8646,6 +8646,72 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Big Yahoo is back with another picture, this time it is one from the Kingdom of Lorennar",
+		"message": {
+			"contents": [
+				"Seeing as how blurry pics are alright with you lads, here's another one. This faction is the Kingdom of Lorennar, a chivalric nation that's currently having a proper row with FEC.\n[[image-2026-10-27_3.jpg]]",
+				"Sorry for the blurry pic, I reckon it's just a corner of a book page. Wasn't gonna post it since it's too blurry."
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-10-27_3.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=374#findComment-814177",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=374#findComment-814179"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-10-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Another post by Boole expanding the information above from Big Yahoo",
+		"message": {
+			"contents": [
+				"True\nAnd the whole page in the Core Book is entirely about the story of this nation, while the one on the right is actually this picture — no problem at all\n[[image-2026-10-27_4.jpg]]"
+			],
+			"quotes": [
+				"Seeing as how blurry pics are alright with you lads, here's another one. This faction is the Kingdom of Lorennar, a chivalric nation that's currently having a proper row with FEC.\n[[image-2026-10-27_3.jpg]]"
+			],
+			"images": [
+				"image-2026-10-27_4.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=375#findComment-814195"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-10-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
