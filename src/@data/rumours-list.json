@@ -8584,6 +8584,38 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Another picture from Big Yahoo, this time it is the map",
+		"message": {
+			"contents": [
+				"Fair enough, he's not got back to me yet. Probably too early. I'll just upload the blurry one then.\n[[image-2026-10-27_2.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-10-27_2.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2002#comment-814068"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-10-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
