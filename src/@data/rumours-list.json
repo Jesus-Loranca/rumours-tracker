@@ -8772,6 +8772,66 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "More info from Big Yahoo about the Last World continents",
+		"message": {
+			"contents": [
+				"Several continents comprise the Last World. They are varied in their terrain as well as the density of their populations. Pieces of the Mortal Realms that preceded them are embedded in each of them, stitched together and their essence rewritten by godly magic that can never again be replicated. They are all that remains of what once was, and even this is only a sliver of the former whole. The continents are riven with earth, though the touch of Chaos has seeped into the bedrock. It can be seen or felt in wilder places, a bubbling malevolence that warps the twisted shape of trees and the malformation of rocks.\nAt the heart of the Last World - according to its Sigmarite hierographs - are the Heldenlands, a rain-lashed domain of forests, marshes, mountains and farmlands. Due north, frost sits in until one reaches the ice-locked edge of sanity where dark forces reign. To the south, deserts and badlands spread, though at the southern pole, the grip of cold and damnation returns. Rivalling the Heldenlands are the Darkwood Provinces. This densely forested region is where ancient rituals and the worship of dark gods endure."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=380#findComment-814365"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-10-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Boole confirms that the text above is a straight copy from the 5th edition core book",
+		"message": {
+			"contents": [
+				"True\nThis is the original text from the Core Book"
+			],
+			"quotes": [
+				"Several continents comprise the Last World. They are varied in their terrain as well as the density of their populations. Pieces of the Mortal Realms that preceded them are embedded in each of them, stitched together and their essence rewritten by godly magic that can never again be replicated. They are all that remains of what once was, and even this is only a sliver of the former whole. The continents are riven with earth, though the touch of Chaos has seeped into the bedrock. It can be seen or felt in wilder places, a bubbling malevolence that warps the twisted shape of trees and the malformation of rocks.\nAt the heart of the Last World - according to its Sigmarite hierographs - are the Heldenlands, a rain-lashed domain of forests, marshes, mountains and farmlands. Due north, frost sits in until one reaches the ice-locked edge of sanity where dark forces reign. To the south, deserts and badlands spread, though at the southern pole, the grip of cold and damnation returns. Rivalling the Heldenlands are the Darkwood Provinces. This densely forested region is where ancient rituals and the worship of dark gods endure."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=380#findComment-814377"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-10-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
