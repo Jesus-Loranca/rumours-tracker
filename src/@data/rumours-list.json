@@ -8549,6 +8549,41 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "A new user posted a picture of what looks like the \"Nu Cathay\". This was corroborated by Boole later with a simple \"True\" post",
+		"message": {
+			"contents": [
+				"Sorry, bit clueless when it comes to the rules here. Is it alright to upload a pic like this?\nNever seen anything like this in any other title, and can't tell if it's just AI ****** or not. Anyone seen this in AoS?\nAlso, I've got another one that looks a bit like a map.\n[[image-2026-10-27_1.jpg]]",
+				"True"
+			],
+			"quotes": [
+				"",
+				"Sorry, bit clueless when it comes to the rules here. Is it alright to upload a pic like this?\nNever seen anything like this in any other title, and can't tell if it's just AI ****** or not. Anyone seen this in AoS?\nAlso, I've got another one that looks a bit like a map.\n[[image-2026-10-27_1.jpg]]"
+			],
+			"images": [
+				"image-2026-10-27_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2000#comment-814037",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2001#findComment-814046"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-10-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
