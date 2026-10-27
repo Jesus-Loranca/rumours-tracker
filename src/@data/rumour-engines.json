@@ -12358,5 +12358,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-10-27",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-27th-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-10-27.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-oct27-0-content-qp1weurygz.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-10-27-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
