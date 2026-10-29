@@ -8952,6 +8952,38 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Big Yahoo provides a new picture showing a Stormcast fighting a Slaves to Darkness (both with a new style) that could be part of the new book or even the launch box",
+		"message": {
+			"contents": [
+				"I remember it clearly, this is the new art for the SCE and STD models. The SCE all have cloaks and long weapons.\n[[image-2026-10-29_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-10-29_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=396#findComment-814946"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-10-29",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
