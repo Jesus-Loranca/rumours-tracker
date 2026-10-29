@@ -8984,6 +8984,70 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "End of Edition Campaign",
+		"text": "WF back me up throws a puzzle about the name of the first book of the campaign.",
+		"message": {
+			"contents": [
+				"D _ _ _ _\nO _\nS _ _ _ _ _"
+			],
+			"quotes": [
+				"The one thing I'm most curious about is just the name of the first campaign book."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2010#findComment-815026"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "2026-10-29",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "End of Edition Campaign",
+		"text": "Then it got solved by another user, and the rumourmonger confirmed it was correct and that is a way to confirm all the rumours. The first book is called \"Death of Sigmar\"",
+		"message": {
+			"contents": [
+				"Death of Sigmar, locking it in.\nIt's the \"John dies at the end \" of Warhammer books.",
+				"W O W. Right in our face to confirm the rumours with that title."
+			],
+			"quotes": [
+				"D _ _ _ _\nO _\nS _ _ _ _ _",
+				"Death of Sigmar, locking it in."
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": false,
+		"isThanks": true,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2010#findComment-815026",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2010#findComment-815027",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2010#findComment-815032"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "2026-10-29",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
