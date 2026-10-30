@@ -9048,6 +9048,36 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "End of Edition Campaign",
+		"text": "Back me up reacts to a message wishlisting for a Gloomspite Gitz supplement, mentioning specifically squigs. Could this be a hint for an end of edition campaign release for them?",
+		"message": {
+			"contents": [
+				"Dozen of Squigs\nAn all Gloomspite focused supplement."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2011#findComment-815060"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "2026-10-29",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
