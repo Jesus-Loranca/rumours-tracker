@@ -9204,6 +9204,36 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "To give more details on top of Big Yahoo, Boole says it is Archaon the one killing Sigmar, and the \"new everchosen\" is just a new STD hero",
+		"message": {
+			"contents": [
+				"Why is it that so much terrible things happens whenever we're gone for a few days?\nWell, let us join in too\nActually, it was Archaon who killed Sigmar!\nActually, that picture is just a new STD hero!\nActually..."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=413#findComment-815669"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-11-01",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
