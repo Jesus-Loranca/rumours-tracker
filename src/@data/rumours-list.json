@@ -9078,6 +9078,132 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Big Yahoo give us a new picture where we can see Cities of Sigmar and Stormcast in the background",
+		"message": {
+			"contents": [
+				"Need to point out, I don't have the core book myself. A mate at the print factory is describing it and sending me pics now and then. I'm proper certain they're real, since he always sends me Kill Team book photos months early so I know about the new models.\nAs for this one, he said all the CoS in the core book have the style of the guy on the left, proper Renaissance vibes. The blurry lot on the right is an SCE army on patrol in a city.\n[[image-2026-11-01_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-11-01_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=408#findComment-815531"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-01",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "A new picture by Big Yahoo, this time showing Sigmar who has defeated Archaon",
+		"message": {
+			"contents": [
+				"Only just heard this, but Sigmar has killed Archaon. There's gonna be a new Everchosen in TLW. Might get some pics of him in the next few days.\n[[image-2026-11-01_2.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-11-01_2.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=411#findComment-815611"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-01",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "He posted also a picture of the new Everchosen, who looks quite similar to the WHFB Archaon",
+		"message": {
+			"contents": [
+				"Had a word with him for you lot, didn't get an answer saying another version exists, so no Archaon winning stuff. Can you lads show me the text this Boole fella posted? Just wanna see what he said and the details. Also, mate sent me the pic of the new Everchosen pretty quick.\nLooks like this new Everchosen is riding a daemon steed as well, and he's got a flaming sword in his hand.\n[[image-2026-11-01_3.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-11-01_3.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=411#findComment-815629"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-01",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Looks like Vampire Cost is in The Last World",
+		"message": {
+			"contents": [
+				"We talked about this back in June, Vampire Coast in TLW is 100%. No proof though, sorry."
+			],
+			"quotes": [
+				"@Big Yahoo sorrf fo arsking like this but at this point im getting desperate, its been too long and it still sucks that mannfred got to survive instead of vlad. So Vlad von Carstein and/or vampire coast in TLW? at this point i'd be happy with a \"weak maybe\" or a \"strong no\" lol"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=412#findComment-815645"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-01",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
