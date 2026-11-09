@@ -9266,6 +9266,66 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Boole talks about the rules of the 5th edition, precisely about the return of the common spells and that there's 8 different spell lores",
+		"message": {
+			"contents": [
+				"We're still fighting a headache at the moment—but honestly, that beef sandwich loaded with cheese really hit the spot\nRegarding the rules changes, all I can recall is the return of common spells, even 8 different spell lores\nYou guys could just get this guy who's desperate for 1000 pounds to snap a pic of that page—it even has new art on it"
+			],
+			"quotes": [
+				"Is there anything you can tell us about rule changes?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=431#findComment-816880"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-11-09",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "He also talks about the double turn. It seems it is going to be removed",
+		"message": {
+			"contents": [
+				"We remember the double turn got changed. Did they delete it, or heavily modify it? Regardless, it's definitely one of those two\nBy the way, I think it got removed, but the dude driving right now insists it has to be retained"
+			],
+			"quotes": [
+				"How about the double turn?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=432#findComment-816886"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-11-09",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
