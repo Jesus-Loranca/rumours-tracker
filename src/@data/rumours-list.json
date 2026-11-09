@@ -9234,6 +9234,38 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Big Yahoo is back with a more zoomed version of the area of the map he posted before, showing more details and labels. It also let us see that armies are spread around other armies territories",
+		"message": {
+			"contents": [
+				"He took a new photo. Looks like it's not quite the same as the old world map, seems to have a lot more labels on it.\nHe told me £1000 would get me the book, but I'm sure it'd get lost in the post. Apologies lads, you'll just have to make do with this.\n[[image-2026-11-09_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-11-09_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=430#findComment-816846"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-09",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
