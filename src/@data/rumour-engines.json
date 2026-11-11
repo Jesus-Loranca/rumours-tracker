@@ -12398,5 +12398,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-11-11",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/siudolan/the-rumour-engine-10th-of-november/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-11-11.jpg",
+			"cdn": "https://assets.warhammer-community.com/img/articles/0-2026/november/wc-09-11/rumourengine-nov10-0-content-uxwvqj4mr4.jpg?width=1920"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-11-11-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
