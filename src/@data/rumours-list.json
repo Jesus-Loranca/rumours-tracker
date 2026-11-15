@@ -9326,6 +9326,42 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "More maps from Big Yahoo. This time it is Ghyran and Shyish",
+		"message": {
+			"contents": [
+				"Got another photo here, I'd say this is Ghyran.\n[[image-2026-11-15_1.jpg]]",
+				"This is clearly Shyish. Again, just me guessing though.\nStruggling to make out the details on these myself, but I absolutely love AoS. Just wanted to see if you lads can help work out what they are.\n[[image-2026-11-15_2.jpg]]"
+			],
+			"quotes": [
+				"",
+				""
+			],
+			"images": [
+				"image-2026-11-15_1.jpg",
+				"image-2026-11-15_2.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=436#findComment-817376",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=436#findComment-817378"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-15",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
