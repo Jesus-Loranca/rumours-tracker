@@ -9362,6 +9362,45 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Four more posts from Big Yahoo with images. This time they seem to be from CoS, SCE and BoC",
+		"message": {
+			"contents": [
+				"I think this is the new CoS Cavalier. You can just make out a Cogfort in the background.\n[[image-2026-11-15_3.jpg]]",
+				"Still think it's CoS.\n[[image-2026-11-15_4.jpg]]\n[[image-2026-11-15_5.jpg]]",
+				"New SCE?\n[[image-2026-11-15_6.jpg]]",
+				"Defo BoC this one.\n[[image-2026-11-15_7.jpg]]"
+			],
+			"quotes": [
+				"",
+				"",
+				"",
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=436#findComment-817384",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=436#findComment-817385",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=437#findComment-817386",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=437#findComment-817387"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-15",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
