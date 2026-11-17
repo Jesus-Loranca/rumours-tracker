@@ -12400,20 +12400,40 @@
 		"tags": []
 	},
 	{
-		"date": "2026-11-11",
+		"date": "2026-11-10",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/en-gb/articles/siudolan/the-rumour-engine-10th-of-november/",
 		"resolvedLink": "",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
-			"url": "2026-11-11.jpg",
-			"cdn": "https://assets.warhammer-community.com/img/articles/0-2026/november/wc-09-11/rumourengine-nov10-0-content-uxwvqj4mr4.jpg?width=1920"
+			"url": "2026-11-10.jpg",
+			"cdn": "https://assets.warhammer-community.com/img/articles/0-2026/november/wc-09-11/rumourengine-nov10-0-content-uxwvqj4mr4.jpg?width=1920&format=webp"
 		},
 		"miniature": {
 			"name": "",
 			"link": "",
 			"image": {
-				"url": "2026-11-11-miniature.jpg",
+				"url": "2026-11-10-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2026-11-17",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/tbxphqdd/the-rumour-engine-17th-of-november/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-11-17.jpg",
+			"cdn": "https://assets.warhammer-community.com/img/articles/0-2026/november/wc-09-11/rumourengine-nov17-0-content-3axrboipgu.jpg?width=1920&format=webp"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-11-17-miniature.jpg",
 				"cdn": ""
 			}
 		},
