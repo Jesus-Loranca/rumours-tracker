@@ -9401,6 +9401,103 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "A new picture showing Archaon defeating Sigmar",
+		"message": {
+			"contents": [
+				"Wow\n[[image-2026-11-22_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-11-22_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=444#findComment-817936"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-22",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "A new post describing the Blacksteel Autarchy and showing a couple of their images",
+		"message": {
+			"contents": [
+				"Ruthless and mercenary, the Blacksteel Autarchy have forged their lands through a complete lack of pity and no shortage of guns.\nJust as the free nations of the world vary, so too do those enthralled to the Ruinous Powers. Each possesses their own unique culture, though all are touched by Chaos. They trade, make alliances and indulge in feuds, and when war calls, their lords – who are regarded almost as gods in their own right – emerge from their dark strongholds and drive them to march alongside one another as a single horde. But one glance across their ranks reveals a rich panoply of the damned.\nUltimately, though, this is an empire built on the promise of apocalypse. Raving clerics preach to any who will heed their words of the coming end of days. All inhabitants of the Rainlands are playthings of the gods. Promises of mastery upon this earth are merely lies offered to the most useful, meant to buy their eternal servitude.\n[[image-2026-11-22_2.jpg]]\n[[image-2026-11-22_3.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-11-22_2.jpg",
+				"image-2026-11-22_3.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=444#findComment-817937"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-22",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Another one about the Ursals, this time showing an image",
+		"message": {
+			"contents": [
+				"Venture northwards far enough and you'll meet the Ursal. Fur-clad, barbaric... Longhouse kings, they call themselves. Who would dare gainsay it?\n[[image-2026-11-22_4.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2026-11-22_4.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=444#findComment-817938"
+		],
+		"rumourmonger": "Big Yahoo",
+		"date": "2026-11-22",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
