@@ -12401,42 +12401,42 @@
 	},
 	{
 		"date": "2026-11-10",
-		"resolvedDate": "",
+		"resolvedDate": "2026-11-23",
 		"link": "https://www.warhammer-community.com/en-gb/articles/siudolan/the-rumour-engine-10th-of-november/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/c89qfbhj/bretonnians-return-at-full-tilt-for-warhammer-the-old-world/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-11-10.jpg",
 			"cdn": "https://assets.warhammer-community.com/img/articles/0-2026/november/wc-09-11/rumourengine-nov10-0-content-uxwvqj4mr4.jpg?width=1920&format=webp"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Knights of the Realm",
 			"link": "",
 			"image": {
 				"url": "2026-11-10-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/image4-cfdhnzpga3.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["The Old World", "Kingdom of Bretonnia"]
 	},
 	{
 		"date": "2026-11-17",
-		"resolvedDate": "",
+		"resolvedDate": "2026-11-23",
 		"link": "https://www.warhammer-community.com/en-gb/articles/tbxphqdd/the-rumour-engine-17th-of-november/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/c89qfbhj/bretonnians-return-at-full-tilt-for-warhammer-the-old-world/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-11-17.jpg",
 			"cdn": "https://assets.warhammer-community.com/img/articles/0-2026/november/wc-09-11/rumourengine-nov17-0-content-3axrboipgu.jpg?width=1920&format=webp"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Pegasus Knights",
 			"link": "",
 			"image": {
-				"url": "2026-11-17-miniature.jpg",
-				"cdn": ""
+				"url": "2026-11-17-miniature.webp",
+				"cdn": "https://assets.warhammer-community.com/img/articles/0-2026/november/wc-09-11/rumourengine-nov17-0-content-3axrboipgu.jpg?width=1920&format=webp"
 			}
 		},
-		"tags": []
+		"tags": ["The Old World", "Kingdom of Bretonnia"]
 	}
 ]
