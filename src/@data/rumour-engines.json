@@ -12438,5 +12438,25 @@
 			}
 		},
 		"tags": ["The Old World", "Kingdom of Bretonnia"]
+	},
+	{
+		"date": "2026-11-24",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/td7byi5c/the-rumour-engine-24th-of-november/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-11-24.webp",
+			"cdn": "https://assets.warhammer-community.com/img/articles/0-2026/november/wc-23-11/rumourengine-nov24-0-content-dtqkekysx0.jpg?width=1920&format=webp"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-11-24-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
