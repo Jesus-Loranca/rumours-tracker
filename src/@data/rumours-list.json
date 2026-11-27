@@ -9534,6 +9534,66 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "End of Edition Campaign",
+		"text": "Boole expands the posts above with more details about the Chaos Dragons and the IJ Wyvern",
+		"message": {
+			"contents": [
+				"We're not taking questions, but that guy just now was way too excited, so let's add a few more details:\nYou're right\nAfter Sigmar’s death, a guy called the lord of the end times will return in triumph\nAlso, there's more than one Chaos Dragons—both wingless and winged ones will attack Azyr\nYou will also see Wyvern\nAnd The Claw of Gork ↓\n[[image-2026-11-27_5.jpg]]"
+			],
+			"quotes": [
+				"Sad you don't know anything about the new Wyvern."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2062#findComment-818552"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-11-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "End of Edition Campaign",
+		"text": "The first book of the EoE campaign could be closer than we think",
+		"message": {
+			"contents": [
+				"We can't say too much because many things are still up in the air, but we've got full confidence in AoS\nOf course, you know how it is—these are all rumours, definitely not leaks 🤪\nMaybe all this is coming sooner than we think\nRemember, rumours are rumours, have a great day!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=2062#findComment-818555"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-11-27",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
